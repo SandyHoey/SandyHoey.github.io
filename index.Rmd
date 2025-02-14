@@ -1,0 +1,35 @@
+---
+title: "Cameron Ho"
+image: ""
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/cameron-ho-96048775/"
+  - label: GitHub
+    url: "https://github.com/SandyHoey"
+  - label: Email
+    url: "mailto:ho.cameron98@gmail.com"
+  - label: ResearchGate
+    url: "https://researchgate.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+x
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+MSc in Forestry Science | 2024 - Present
+
+**University of Washington** | Seattle, WA
+
+B.S. in Environmental Science & Resource Management | 2017 - 2021
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
